@@ -137,6 +137,12 @@
     - Large Enchanted Agronomy Sack
     - Blessed Melon Dicer 3.0 (Cultivating X + Turbo-Melon V + Delicate V + Dedication III + Efficiency V + Sunder VI + x3 Peridot Gemstones applied)
     - Buzzing InfiniVacuum™ Hooverius (x2 Fine Peridot Gemstones applied)
+
+27. **Talismans**.
+    - Fermento Artifact
+    - Atmospheric Filter
+    - Anita's Artifact
+
 ---
 
 ### **Best Farming Locations**  
