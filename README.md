@@ -83,10 +83,13 @@
 15. **Compost & Plot Clearing**:  
     - Buy **Compost** and put it in.  
     - Take the **Compost** and buy a **Plot**.  
-    - **Clear the plot 100% to Bedrock** (consider using **Taunahi**).  
+    - **Clear the plot 100% to Bedrock** (consider using **Taunahi**).
+    - Make sure to complete Sam her Quests to unlock Visitors
 
-16. **Replant Wheat**:  
-    - **Set up Wheat Farm** on the cleared plot.  
+16. **Starting gardening farm**:  
+    - **Set up Mushroom Farm** on the cleared plot.
+    - This offers the most XP to farm untill farming lvl 40
+    - Make sure to get a legendary rabbit pet for xp
 
 ---
 
@@ -104,12 +107,14 @@
 ---
 
 ### **Final Farming Progression**  
-19. **Farm Until Farming Skill Level 21**.  
-    - Buy **Rancher’s Boots**.  
+19. **Farm Until Farming Skill Level 40**.  
+    - Buy **Rancher’s Boots**.
 
-20. **Switch to Pumpkin/Melon Farming**.  
 
-21. **Upgrade Farming Armor**:  
+20. **Switch to Pumpkin/Melon Farming**.
+     - use mooshroom pet
+
+22. **Upgrade Farming Armor**:  
     - **Melon** → **Cropie** → **Squash** → **Fermento**  
     - Armor Level Requirements:  
       - **Melon** – Level **25**  
@@ -117,7 +122,7 @@
       - **Squash** – Level **35**  
       - **Fermento** – Level **40**  
 
-22. **Buy Mushroom Pet**.  
+23. **Buy Mushroom Pet**.  
 
 ---
 
