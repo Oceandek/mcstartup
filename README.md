@@ -2,7 +2,7 @@
 ---
 
 ### **Starting Tasks**  
-1. **Transfer Money**: Give **30M** to alt.  
+1. **Transfer Money**: Give **50M** to alt.  
 2. **Buy Essential Items**:  
    - **Diamond Pickaxe** (with **Smelting Touch**)  
    - **Aspect of the End**  
