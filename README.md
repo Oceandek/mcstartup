@@ -112,7 +112,6 @@
 
 
 20. **Switch to Pumpkin/Melon Farming**.
-     - use mooshroom pet
 
 22. **Upgrade Farming Armor**:  
     - **Melon** → **Cropie** → **Squash** → **Fermento**  
@@ -122,11 +121,36 @@
       - **Squash** – Level **35**  
       - **Fermento** – Level **40**  
 
-23. **Buy Mushroom Pet**.  
+23. **Buy Mushroom Pet**.
+    - Must have Green Bandana
 
+
+25. **End-Game**.
+    - Get Mossy Fermento set 3/4 + mossy rancher's boots
+    - Pesterminator V on all gear
+    - Recombobulated fermento gear with x2 Flawless Peridot Each
+    - Depth strider III on the rancher boots
+    - Full recombobulated rooted lotus equipment
+
+26. **Tools**.
+    - Garden Sack
+    - Large Enchanted Agronomy Sack
+    - Blessed Melon Dicer 3.0 (Cultivating X + Turbo-Melon V + Delicate V + Dedication III + Efficiency V + Sunder VI + x3 Peridot Gemstones applied)
+    - Buzzing InfiniVacuum™ Hooverius (x2 Fine Peridot Gemstones applied)
 ---
 
 ### **Best Farming Locations**  
+- **Oak Wood (HUB)**: **(-100, 74, -32)**
+- Go to the park for more Wood sorts (-220, 73, -16)
+- **Birch Park**: **(-291, 84, -11)**
+- **Spruce Woods**: **(-350, 89, -5)**
+- **Dark Oak**: **(-355, 103, -28)**
+- **Acacia Wood**: **(-391, 110, -15)**
+- **Jungle Wood**: **(-410, 120, -47)**
+
+
+
+
 - **Mushroom Farm**: **(266, 55, -380)**  
 
 ---
